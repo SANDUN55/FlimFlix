@@ -18,7 +18,7 @@ It showcases how thoughtful design combined with responsive frontend development
 
 
 <p align="center">
-    <strong>Here’s how the interfaces look:</strong><br><br>
+    <br><br><br><br><strong>Here’s how the interfaces look:</strong><br><br>
   <img src="https://raw.githubusercontent.com/SANDUN55/FlimFlix/main/F.png" alt="Thumbnail" width="600"><br><br>
   <img src="https://raw.githubusercontent.com/SANDUN55/FlimFlix/main/FilmFlix%20(1).png" alt="FilmFlix 1" width="600"><br><br>
   <img src="https://raw.githubusercontent.com/SANDUN55/FlimFlix/main/FilmFlix%20(2).png" alt="FilmFlix 2" width="600"><br><br>
